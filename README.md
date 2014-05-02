@@ -8,4 +8,7 @@ This script makes it easier and quicker to rebuild a machine from base install t
 
 _Developing The Project_ 
 
-This project has no dependencies but given the fact that the oldest version of Windows used is Windows XP it is reccomended that this script be tested on Windows XP.
+This project has no dependencies. It reccomended that versions be tested on:
+
+- Windows XP (Tested and working)
+- Windows Vista/7
